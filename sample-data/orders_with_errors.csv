@@ -1,0 +1,7 @@
+order_id,customer,amount,order_date
+6001,Asha Verma,500.00,2026-02-04
+6002,,120.00,2026-02-04
+6003,Meera Nair,abc,2026-02-05
+6004,Kabir Singh,75.00,05/02/2026
+6005,Isha Patel,-10,2026-02-06
+6006,Dev Sharma,45.25,2026-02-06

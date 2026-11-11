@@ -1,0 +1,4 @@
+# Copy to terraform.tfvars and edit.
+aws_region   = "ap-south-1"
+project_name = "csv-pipeline"
+alert_email  = "you@example.com"
